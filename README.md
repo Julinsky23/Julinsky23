@@ -1,7 +1,7 @@
-   👋 Hi, I’m Julia.
+   <h1>👋 Hi,  I’m Julia.</h1>
 
 A passionate computer science student from Germany.
-   I am currently learning HTML, CSS, Javascript.
+   I am currently learning HTML, CSS & Javascript.
 
 <img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/09d1a76a-1175-4e35-b3e1-3a89d790dd1e" width="50">
 
@@ -10,6 +10,8 @@ A passionate computer science student from Germany.
 <img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/6d9efebf-8c3b-4269-8fe7-334506f6eb8f" width="50">
 
 <img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/56c0ee09-cbd2-4f66-815b-ea8d2e7aabdd" width="50">
+
+<img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/8dc2faf5-7d44-4695-b2d5-08ad270bcb9a" width="47">
 
 <img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/76cb89d8-812d-407e-b49b-1cd0595726ac" width="50">
 
