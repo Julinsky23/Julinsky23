@@ -1,7 +1,7 @@
    <h1>👋 Hi,  I’m Julia.</h1>
 
 A passionate computer science student from Germany.
-   I am currently learning HTML, CSS & Javascript.
+   I am currently learning App Development with Flutter.
 
 <img src="https://github.com/Julinsky23/Julinsky23/assets/149895465/09d1a76a-1175-4e35-b3e1-3a89d790dd1e" width="50">
 
